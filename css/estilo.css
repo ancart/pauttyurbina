@@ -422,7 +422,7 @@ main section#fila-3-fotos article#img-centro{
     margin: 0 auto;
     float: left;
     position: relative;
-    background: url(../img/imagen3.jpg) no-repeat center center;
+    background: url(../img/Imagen3.jpg) no-repeat center center;
     background-size: cover;
   
 }
@@ -434,7 +434,7 @@ main section#fila-3-fotos article#img-derecha{
     margin: 0 auto;
     float: left;
     position: relative;
-    background: url(../img/imagen4.jpg) no-repeat center center;
+    background: url(../img/Imagen4.jpg) no-repeat center center;
     background-size: cover;
   
 }
